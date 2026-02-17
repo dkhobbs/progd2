@@ -1,4 +1,4 @@
-#This is a lottery game created by Derrick Hobbs#
+#This is a lottery game created by Derrick Hobbs under Creative Common Attribution Non Commercial (CC BY -NC) License#
 import random
 a = int(input("What is your lottery number"))
 random_number = random.randint(1,10)
